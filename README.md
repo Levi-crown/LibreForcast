@@ -15,23 +15,20 @@ There is no account to make. No sign-in, no email, no password. Your settings an
 <br>
 
 <p align="center">
-  <a href="https://github.com/Levi-crown/LibreForcast/releases/latest"><img src="https://img.shields.io/badge/Download%20APK-2E8BFF?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"></a>
+  <a href="https://github.com/Levi-crown/LibreForcast/releases/latest"><img src="assets/download.svg" width="300" alt="Download APK"></a>
 </p>
 
 <p align="center"><b>Always download the latest version.</b></p>
 
 <p align="center">
-  <a href="https://github.com/Levi-crown/LibreForcast/releases/latest"><img src="https://img.shields.io/github/v/release/Levi-crown/LibreForcast?style=flat-square&cacheSeconds=1800&label=version&color=2E8BFF&labelColor=0B0F1A" alt="Latest version"></a>
-  <img src="https://img.shields.io/badge/Android-7.0%2B-2E8BFF?style=flat-square&logo=android&logoColor=white&labelColor=0B0F1A" alt="Android 7.0 and up">
-  <img src="https://img.shields.io/badge/price-free-2E8BFF?style=flat-square&labelColor=0B0F1A" alt="Free">
-  <img src="https://img.shields.io/badge/ads-none-2E8BFF?style=flat-square&labelColor=0B0F1A" alt="No ads">
+  <img src="assets/facts.svg" width="560" alt="Android 7.0 and up. Free. No ads. No sign-in.">
 </p>
 
 <br>
 
 ## What it can do
 
-| | |
+| Feature | What it does |
 | :--- | :--- |
 | **3D globe** | The map is a globe you can spin and zoom. It opens the moment you start the app. |
 | **Live satellite** | Cloud pictures from the Himawari and GOES satellites for the last 3 hours, plus a sharp daily true-colour view of the whole Earth. |
@@ -65,7 +62,7 @@ Get the newest version from **[Releases](https://github.com/Levi-crown/LibreForc
 
 ## Credits
 
-| | |
+| What | Source |
 | :--- | :--- |
 | **Forecast and place search** | [Open-Meteo.com](https://open-meteo.com) (CC BY 4.0) |
 | **Satellite and fires** | [NASA GIBS](https://www.earthdata.nasa.gov/engage/open-data-services-software/earthdata-developer-portal/gibs-api), from Himawari, GOES and NOAA-20 VIIRS |
